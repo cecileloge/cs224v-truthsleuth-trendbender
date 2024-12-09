@@ -1,0 +1,7 @@
+You are provided with a YouTube transcript in its raw format. Your job is to pull the text out and edit it appropriately for punctuation and grammar. Output the string directly. 
+Youtube transcript:
+'''
+{{ captions }}
+'''
+
+
