@@ -12,7 +12,7 @@ CS224V Project | Fall 2024
 
 **Motivation:** Misinformation is one of the most pressing threats of our time, and YouTube videos serve as a major platform through which it can spread. Providing fact-checked information to address misleading content has been shown to be more effective than simply removing it. This information should not only be provided to users but it should be leveraged to start conversations, challenge the accepted narrative, and ultimately maybe even change their minds. 
 
-That's exactly the goal of this project. Our system comprises two main agents: **Truth Sleuth** (for fact-checking) and **Trend Bender** (for interacting with users). Throughout our experiments, we focused on two themes: We experimented with two themes: Diet Culture and the Manosphere.
+That's exactly the goal of this project. Our system comprises two main agents: **Truth Sleuth** (for fact-checking) and **Trend Bender** (for interacting with users). Throughout our experiments, we focused on two themes: Diet Culture and the Manosphere.
 
 ---
 
@@ -32,5 +32,3 @@ Here you will find:
 
 ---
 
-
----
