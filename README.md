@@ -3,9 +3,9 @@
 CS224V Project | Fall 2024 
 
 
-**Cecile Loge ep. Baccari** | ceciloge@stanford.edu | cecileloge@google.com
+**Cecile Loge ep. Baccari** | ceciloge@stanford.edu 
 
-**Mohammad Rehan Ghori** | rghori@stanford.edu | rehang@google.com
+**Mohammad Rehan Ghori** | rghori@stanford.edu 
 
 
 ---
