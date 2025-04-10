@@ -1,5 +1,5 @@
 # Truth Sleuth &amp; Trend Bender
-## AI Agents to fact-check YouTube videos \& influence opinions
+## AI Agents to fact-check YouTube videos \& burst harmful filter bubbles
 CS224V Project | Fall 2024 
 
 
