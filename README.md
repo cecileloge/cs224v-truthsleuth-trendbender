@@ -1,5 +1,6 @@
 # Truth Sleuth &amp; Trend Bender
-## AI Agents to fact-check YouTube videos \& burst harmful filter bubbles
+## AI Agents designed to fight misinformation on YouTube
+Fact-checking YouTube videos \& bursting harmful filter bubbles in the comments
 CS224V Project | Fall 2024 
 
 
