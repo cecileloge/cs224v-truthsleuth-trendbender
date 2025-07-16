@@ -16,6 +16,18 @@ That's exactly the goal of this project. Our system comprises two main agents: *
 
 ---
 
+Check out our paper [here](https://arxiv.org/abs/2507.10577)! Cite us!
+>     @misc{cécile2025truthsleuthtrendbender,
+>         title={Truth Sleuth and Trend Bender: AI Agents to fact-check YouTube videos and influence opinions}, 
+>         author={Cécile Logé and Rehan Ghori},
+>         year={2025},
+>         eprint={2507.10577},
+>         archivePrefix={arXiv},
+>         primaryClass={cs.CL},
+>         url={https://arxiv.org/abs/2507.10577}, 
+>      }
+---
+
 Here you will find: 
 * **prompts**: all the prompts we have used for our experiments, as well as final prompts for each agent,
 * **samples**: sample outputs from the Truth Sleuth agent (fact-check reports) and from the Trend Bender agent (generated comments), as well as some examples of real user interactions,
