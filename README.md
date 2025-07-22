@@ -17,15 +17,12 @@ That's exactly the goal of this project. Our system comprises two main agents: *
 ---
 
 Check out our paper [here](https://arxiv.org/abs/2507.10577)! Cite us!
->     @misc{cécile2025truthsleuthtrendbender,
->         title={Truth Sleuth and Trend Bender: AI Agents to fact-check YouTube videos and influence opinions}, 
->         author={Cécile Logé and Rehan Ghori},
->         year={2025},
->         eprint={2507.10577},
->         archivePrefix={arXiv},
->         primaryClass={cs.CL},
->         url={https://arxiv.org/abs/2507.10577}, 
->      }
+>     @article{cecile2025truth,
+>     title={Truth Sleuth and Trend Bender: AI Agents to fact-check YouTube videos and influence opinions},
+>     author={C{\'e}cile, Log{\'e} and Rehan, Ghori},
+>     journal={arXiv preprint arXiv:2507.10577},
+>     year={2025}
+>     }
 ---
 
 Here you will find: 
